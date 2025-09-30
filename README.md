@@ -1,5 +1,4 @@
-# KNN-Iris-Classification
-# Elevate Labs AI & ML Internship - Task 6: K-Nearest Neighbors (KNN) Classification
+# KNN-Iris-Classification: 
 
 ## 🌟 Objective
 
